@@ -17,7 +17,7 @@ The first one is used to search and save data. The second one is used to perform
 <br>  --tweet_date TWEET_DATE
 <br>                       tweet created date in yyyy-mm-dd
 
-<br>To show analysis results according the data fetched above
+<br>To show analysis results according the data fetched above:
 <br>python Analysis.py [-h] [--search_term SEARCH_TERM] [--min_date MIN_DATE] [--max_date MAX_DATE]
 <br>optional arguments:
 <br>  -h, --help            show this help message and exit
