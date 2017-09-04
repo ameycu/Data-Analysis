@@ -5,7 +5,8 @@
 
 **Approach:**
 <br>There are two .py files PythonTwitterTool_Fetch.py and Analysis.py. 
-The first one is used to search and save data. The second one is used to perform relevant anyalysis.
+<br>The first one is used to search and save data. The second one is used to perform relevant anyalysis.
+<br>The config.ini file should contain CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN and ACCESS_SECRET for twitter account
 
 **Running the code:**
 <br>To fetch data with search_term and tweet_date:
